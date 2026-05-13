@@ -1,0 +1,1 @@
+console.log('React build placeholder - Actual React build files will replace this.');
